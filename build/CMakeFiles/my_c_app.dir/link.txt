@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/my_c_app.dir/main.c.o -o my_c_app 

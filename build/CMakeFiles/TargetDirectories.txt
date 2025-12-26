@@ -1,0 +1,3 @@
+/home/moo-tu/code/learnC/build/CMakeFiles/my_c_app.dir
+/home/moo-tu/code/learnC/build/CMakeFiles/edit_cache.dir
+/home/moo-tu/code/learnC/build/CMakeFiles/rebuild_cache.dir
